@@ -1,10 +1,6 @@
-# CollectionBuilder-CSV
+# Sidewalk Accessibility Collection
 
-CollectionBuilder-CSV is a robust and flexible "stand alone" template for creating digital collection and exhibit websites using Jekyll and a metadata CSV.
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server (or built automatically using GitHub Actions).
-
-Visit the [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/) for step-by-step details for getting started and building collections!
+This repository holds the source code for https://thecdil.github.io/sidewalk_source/. This project is a collection of 57 photos and videos of sidewalks on the University of Idaho's campus. The collection intends to highlight the problem areas and to aid other students with disabilities in navigating across campus. It also aims to highlight some of the more dangerous regions, especially on Sweet Avenue and Idaho Avenue.
 
 ## Brief Overview of Building a Collection
 
