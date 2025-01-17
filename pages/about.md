@@ -14,7 +14,7 @@ permalink: /about.html
 
 ## About the Project
 
-The collection content and map are subjective to University of Idaho student Vincent Lyon's experience using a lightweight electric wheelchair when navigating the sidewalks on the University of Idaho campus. Vincent graduated from the University of Idaho in 2024 with a Bachelors degree in Political Science. The collection was built by Vincent ßwith assistance from Digital Scholarship Librarian Julia Stone. 
+The collection content and map are subjective to University of Idaho student Vincent Lyon's experience using a lightweight electric wheelchair when navigating the sidewalks on the University of Idaho campus. Vincent graduated from the University of Idaho in 2024 with a Bachelors degree in Political Science. The collection was built by Vincent with assistance from Digital Scholarship Librarian Julia Stone. 
 
 The photos and videos should be taken as one of many experiences when traversing the sidewalks on campus. Some may have a more manageable, complex, or similar experience, so the severity of a problem may differ for others.
 
